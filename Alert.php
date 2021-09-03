@@ -3,7 +3,7 @@
 namespace dominus77\sweetalert2;
 
 use Yii;
-use yii\bootstrap\Widget;
+use yii\bootstrap5\Widget;
 use yii\helpers\Json;
 use yii\helpers\ArrayHelper;
 use dominus77\sweetalert2\assets\SweetAlert2Asset;
