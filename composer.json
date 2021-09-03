@@ -1,6 +1,6 @@
 {
-    "name": "dominus77/yii2-sweetalert2-widget",
-    "description": "Renders a SweetAlert2 widget for Yii2.",
+    "name": "ediger86/yii2-sweetalert2-widget",
+    "description": "Fork of Dominus77 SweetAlert widget that uses Bootstrap 5",
     "type": "yii2-extension",
     "keywords": ["dominus77","yii2","extension","widget","sweetalert2"],
     "license": "MIT",
